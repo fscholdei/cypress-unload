@@ -1,6 +1,7 @@
 {
   "name": "cypress-unload-repro",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "test": "cypress run"
   },
